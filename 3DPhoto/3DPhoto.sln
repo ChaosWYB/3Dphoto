@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3DPhoto", "3DPhoto.pyproj", "{DB09D4C0-8DB0-4DEB-A758-F17C1E8C78CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB09D4C0-8DB0-4DEB-A758-F17C1E8C78CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB09D4C0-8DB0-4DEB-A758-F17C1E8C78CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F91CD0-1989-4B4E-AE2A-9A1BD0595D9B}
+	EndGlobalSection
+EndGlobal
